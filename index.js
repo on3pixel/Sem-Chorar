@@ -1,6 +1,6 @@
 const { EmbedBuilder, WebhookClient } = require('discord.js');
 const axios = require('axios')
-const webhookClient = new WebhookClient({url: 'https://discord.com/api/webhooks/1147887454351786024/zBmTQ6KfmHNqktt_NTuXa2O2WA2EhNGD9S2BvVyK1GrdXLU0U8uVPQcdfMVgCnFh4cxt'});
+const webhookClient = new WebhookClient({url: 'LINK_WEBHOOK'});
 const fs = require('fs')
 const path = require("path")
 var sys = require('util')
